@@ -46,7 +46,7 @@ The system analyzes vessel condition across three specialized domains:
 - Visitor safety integration with heritage preservation
 - Climate control effectiveness in preservation areas
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **LangChain**: Core framework for LLM integration and workflow management
 - **LangGraph**: Workflow orchestration and state management
@@ -54,7 +54,7 @@ The system analyzes vessel condition across three specialized domains:
 - **Python**: Core programming language
 - **Pydantic**: Data validation and serialization
 
-## 📋 Requirements
+## Requirements
 
 ```bash
 pip install langchain
@@ -89,7 +89,7 @@ project/
 └── README.md
 ```
 
-### 3. Run the System
+### 3. Usage examples
 
 ```python
 # Initialise the workflow
@@ -172,11 +172,11 @@ Summary: Schedule deep cleaning of less accessible engine room areas
 - Validation with authentic inspection reports from maritime heritage organizations
 - Extended testing across different vessel types and inspection methodologies
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Inspiration**: Original problem design by Dr. Marco Perez Hernandez
 - **Data Generation**: Mock inspection reports generated using Claude Sonnet 4.0 by Anthropic
